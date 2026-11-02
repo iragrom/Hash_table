@@ -52,7 +52,6 @@ class HashTable:
     def get_size(self):
         return self.size
 
-
 def main():
     input_data = sys.stdin.read().splitlines()
     if not input_data:
